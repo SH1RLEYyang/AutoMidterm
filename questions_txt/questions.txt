@@ -1,0 +1,160 @@
+1. What are some fundamental cognitive abilities that distinguish the human brain from the brains of other animals?
+
+2. Why is understanding the differences in information processing between humans and other animals important?
+
+3. Explain the concept of 'Encephalization Quotient (EQ)' and its significance in cognitive science.
+
+4. Discuss the role of slow brain development in human cognitive abilities.
+
+5. What is the importance of building 'causal models' in cognitive science and artificial intelligence?
+
+6. How does the concept of 'learning to learn' enhance cognitive capabilities?
+
+7. Why is building a human-like AI considered challenging, according to the lecture?
+
+8. Describe the difference between deductive and inductive inference with examples.
+
+9. Explain the significance of 'intuitive theories' in learning, as discussed in the lecture.
+
+10. What are some key ingredients for building cognitive models that support explanation and understanding?
+
+11. Explain the concept of affordance as defined by James J. Gibson and provide an example of affordance in an everyday object.
+
+12. Describe the Visual Cliff Experiment and its significance in understanding affordance perception in infants.
+
+13. Differentiate between object affordance and scene affordance with suitable examples.
+
+14. Discuss the role of mirror neurons in understanding affordance.
+
+15. What is the difference between affordance and functionality? Provide an example illustrating this difference.
+
+16. Explain how the concept of affordance can be utilized in computational models for robotics.
+
+17. How does the concept of social affordance differ from physical affordance? Give an example of social affordance.
+
+18. Discuss the challenges of affordance detection in computer vision tasks.
+
+19. What is the significance of Gibson's theory of affordances in moving beyond traditional object classification in computer vision?
+
+20. How can understanding affordances improve human-robot interaction in practical applications?
+
+21. Define affordance and functionality, and explain their roles in Human-Object Interaction (HOI).
+
+22. Explain how 2D Human-Object Interaction (HOI) detection is formulated using bounding boxes and labels.
+
+23. Describe the process of reconstructing a 3D scene from 2D HOI data.
+
+24. Compare the voxel grid and point cloud methods for 3D representation in terms of their structure and application.
+
+25. What are the key components of the SMPL model for human body representation?
+
+26. How does scene affordance differ from object affordance, and what role does it play in Human-Scene Interaction (HSI)?
+
+27. Outline the process of motion generation using an autoregressive diffusion model in Human-Scene Interaction (HSI).
+
+28. Discuss the advantages and challenges of using Signed-Distance Field (SDF) for 3D object representation.
+
+29. Explain how generative AI methods, such as diffusion models, contribute to 3D scene generation.
+
+30. What is the role of human cues in human-centric scene synthesis, and how do they influence scene design?
+
+31. Explain the difference between 'soft constraints' in video generation and 'hard constraints' in robotics generation.
+
+32. What is the Zero Moment Point (ZMP) and its limitations in humanoid robotics?
+
+33. Describe the Linear Inverted Pendulum Model (LIPM) and its assumptions in humanoid robot locomotion.
+
+34. How does reinforcement learning contribute to humanoid robot control, and what are its limitations?
+
+35. What is the sim-to-real gap, and what causes it in humanoid robotics?
+
+36. What is motion retargeting in humanoid robotics, and why is it challenging?
+
+37. Discuss the role of imitation learning in humanoid robotics and its challenges.
+
+38. Explain the concept of 'orbital energy' in the context of LIPM for humanoid robots.
+
+39. What are the key factors affecting humanoid robot performance, and how should they be evaluated?
+
+40. Describe the process and significance of sim-to-real transfer in humanoid robotics.
+
+41. Explain the Violation of Expectation (VoE) paradigm and its significance in studying intuitive physics.
+
+42. Describe the progression of physical concept acquisition in infants according to developmental psychology.
+
+43. How do New Caledonian crows demonstrate an understanding of causal properties of displacement, and how does this compare to human children?
+
+44. Identify and describe the brain regions involved in physical reasoning, as mentioned in the lecture.
+
+45. What are the key components of the PLATO model and its role in intuitive physics learning?
+
+46. Contrast the two reasoning processes, heuristics and dynamics, in solving physical puzzles.
+
+47. Discuss the implications of the dual-process model in understanding human physical reasoning.
+
+48. Explain how modern AI systems attempt to model intuitive physics and the challenges they face.
+
+49. What role do neural ODEs play in modeling continuous dynamics, and what are their limitations?
+
+50. How do video generation models contribute to the understanding of intuitive physics, and what are their current limitations?
+
+51. Explain Aristotle's four types of causes and provide an example of each.
+
+52. According to David Hume, why is causality considered an illusion?
+
+53. Describe Immanuel Kant's solution to Hume's skepticism about causality.
+
+54. What is the significance of Judea Pearl's Ladder of Causation in understanding causal relationships?
+
+55. How did Francis Galton and Karl Pearson contribute to the development of causal analysis?
+
+56. Discuss the role of counterfactual theory in causal reasoning with an example.
+
+57. What challenges do researchers face when integrating causality into AI, and how can causal representation learning help?
+
+58. Why is causal perception considered a subjective cognitive phenomenon, and how does it differ from statistical causality?
+
+59. Provide an example of how visual causal reasoning is demonstrated in children according to the lecture.
+
+60. Explain the potential outcomes framework by Donald Rubin and its application in causal inference.
+
+61. What is the mirror neuron system (MNS), and why is it important in understanding imitation?
+
+62. Compare and contrast the Transformative and Associative theories of imitation.
+
+63. How do observational studies support the notion that babies are good imitators?
+
+64. What role does imitation play in social development according to the lecture?
+
+65. Explain the concept of kinesthetic teaching in the context of robot imitation learning.
+
+66. What are some challenges associated with using Behavior Cloning as an imitation learning approach?
+
+67. Describe how the DAgger algorithm addresses the limitations of Behavior Cloning.
+
+68. What are the levels of imitation as discussed in the lecture, and how do they differ?
+
+69. How does the lecture define and differentiate between 'imitation learning' and 'inverse reinforcement learning'?
+
+70. Why is it challenging to apply the Mirror Neuron System theory to human brains, and how is this overcome in research?
+
+71. What is the difference between affordance and functionality in the context of tool-use?
+
+72. Explain the role of hand-eye coordination and body schema in human manipulation and tool-use.
+
+73. Describe the concept of 'embodied intelligence' in the context of robotic tool-use.
+
+74. How does causal reasoning contribute to tool-use in both humans and AI systems?
+
+75. What is the importance of social learning in the development of tool-use abilities in animals?
+
+76. What are the key components of executive control in the context of tool-use?
+
+77. How does imitation learning contribute to the development of AI systems capable of tool-use?
+
+78. Discuss the significance of affordance detection at part levels for robotic manipulation.
+
+79. What is the role of computational models in understanding tool-use in AI systems?
+
+80. Explain how task planning is related to executive control in AI systems designed for tool-use.
+
